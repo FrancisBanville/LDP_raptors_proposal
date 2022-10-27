@@ -1,0 +1,1 @@
+The project title, name and complete contact information for the organizer(s), and project summary (max. 300 words), suitable for public circulation.
