@@ -9,6 +9,7 @@ To be determined.
 #### Ashton Sies 
 
 #### Francis Banville
+- Position: PhD candidate
 - Institutions: 
     - Département de sciences biologiques, Université de Montréal
     - Département de biologie, Université de Sherbrooke 
@@ -28,3 +29,5 @@ To be determined.
 #### Stephanie Flaman
 
 ## Project summary
+
+To be written.
