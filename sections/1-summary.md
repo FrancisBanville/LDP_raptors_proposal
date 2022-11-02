@@ -46,6 +46,17 @@ To be determined.
 #### Paloma Serrano
 
 #### Stephanie Flaman
+Position: MSc candidate
+- Institutions: 
+    - Department of Biology, University of Regina
+    - Indian Head Agricultural Research Foundation (IHARF), Agriculture and Agri-Food Canada
+- Labs: 
+    - Dr. Mark Vanderwel (supervisor), Forest Dynamicws Lab, University of Regina 
+    - Dr. Fardauis Akhter (co-supervisor), IHARF, Indian Head 
+- Email: stephanieflaman@sasktel.net
+- Orcid: https://orcid.org/my-orcid?orcid=0000-0003-2515-3452
+- Office: 3737 Wascana Parkway, Regina, SK, S4S 0A2, Lab Building, Room 420.1
+
 
 ## Project summary
 
