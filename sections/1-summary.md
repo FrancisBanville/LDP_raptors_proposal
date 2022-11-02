@@ -7,6 +7,15 @@ To be determined.
 ## Organizers 
 
 #### Ashton Sies 
+- Position: MSc candidate
+- Institution: 
+    - Department of biology, University of Regina
+- Labs: 
+    - Andrew Cameron (supervisor), Institute for Microbial Systems and Society, University of regina
+    - Spencer Russell (host lab), Centre for Innovation in Fish Fealth, Vancouver Island University
+- Email: ans227@uregina.ca
+- Orcid: https://orcid.org/0000-0003-2145-7010
+- Office: 900 5th St., Nanaimo, BC, V9R 5S5, room 373-222
 
 #### Francis Banville
 - Position: PhD candidate
