@@ -32,6 +32,16 @@ To be determined.
 - Office: 1375 Ave.Thérèse-Lavoie-Roux, Montréal, QC H2V 0B3, room B-5439
 
 #### Tory Hartley-Cox
+Position: MSc Student
+Institutions: 
+•	Department of Biology, University of Regina
+•	Royal Saskatchewan Museum 
+Lab:
+Dr. Christopher Somers (supervisor), Somers lab, University of Regina
+Email: toryhartyleycox@gmail.com
+Research Email: uofrowlresearch@gmail.com
+Orcid: https://orcid.org/0000-0001-9986-4594
+Office: 3737 Wascana Parkway, Regina, SK, S4S 0A2, Research and Innovation Centre, Room 321
 
 #### Paloma Serrano
 
