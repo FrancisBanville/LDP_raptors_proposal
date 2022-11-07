@@ -21,18 +21,19 @@ The working group will address the question of “How we can predict raptor resp
 
 _Tuesday, May 9th, 2023_
 
-Each group will make a quick presentation of their work done the previous day, and then discuss and make a final proposal containing the main hypothesis, model, and preliminary data analysis.
+During the morning each group will work on finishng their tasks and during the afternoon groups will be shuffled  and make a quick presentation of their work done, to discuss and collect multidivertse feedback to draft a final proposal of their particular tasks.
 
 _Wednesday, May 10th, 2023_
 
-The working group will finalize the proposal and an outline that establishes the meta-analysis strategy and the team roles and accountability.
-Afternon break/retreat, hopefully to see the raptors. 
+The working groups will finalize their tasks and present their progress during the morning, they will recive target feedback to have an amalgamation of ideas and identification of missing pieces. Finally, there will be an afternon retreat with the hope to see the raptors.
 
 _Thursday, May 11th, 2023_
 
-The working group will discuss the future directions of the living data project and assign leadership roles to accomplish every single left task.
-A detailed plan schedule will be created that establishes a critical route plan to achieve the goal outcomes. including meetings and zoom follow-ups.
+work at  in breakout groups (perhaps larger groups of 5 this time?)
+Lareger working groups will be fomred (5 individuals) to assign leadership roles to accomplish every single left task and discuss and solve the remaining unsolved parts of the assaingments.  
 
 _Friday, May 12th, 2023_
+
+The final progress will be presented to then discuss the rough manuscript structure and  talk about future directions of the living data project and stablish a detailed plan schedule will be created that establishes a critical route plan to achieve the goal outcomes, including meetings and zoom follow-ups. 
 
 **Follow-up activities and milestones**
