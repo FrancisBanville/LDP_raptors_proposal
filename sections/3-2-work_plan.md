@@ -14,10 +14,24 @@ In early 2023, the organizers will collect and tidy all database components. Thi
 
 _Monday, May 8th, 2023_
 
+Working group participants will present their short talks and field questions in the morning. The organizers will end the morning session with a joint presentation. All organizers will describe the topic and goals of the working group, and a code of conduct will be established for the optimal run of the diverse, equitable, and inclusive working group, including a discussion on how we will use and handle the data coming from underrepresented areas and collaborators.
+Finally, the working group will address the question of “How we can predict raptor responses to climate change in the prairies and their responses to ecosystem restoration?”, by brainstorming solution ideas in the frame of their area of expertise. Teams will be formed to focus on specific tasks taking advantage of their expertise.
+
 _Tuesday, May 9th, 2023_
+
+During the morning each group will work on finishng their tasks and during the afternoon groups will be shuffled  and make a quick presentation of their work done, to discuss and collect multidivertse feedback to draft a final proposal of their particular tasks.
 
 _Wednesday, May 10th, 2023_
 
+The working groups will finalize their tasks and present their progress during the morning, they will recive target feedback to have an amalgamation of ideas and identification of missing pieces. Finally, there will be an afternon retreat with the hope to see the raptors.
+
 _Thursday, May 11th, 2023_
 
+work at  in breakout groups (perhaps larger groups of 5 this time?)
+Lareger working groups will be fomred (5 individuals) to assign leadership roles to accomplish every single left task and discuss and solve the remaining unsolved parts of the assaingments.  
+
 _Friday, May 12th, 2023_
+
+The final progress will be presented to then discuss the rough manuscript structure and  talk about future directions of the living data project and stablish a detailed plan schedule will be created that establishes a critical route plan to achieve the goal outcomes, including meetings and zoom follow-ups. 
+
+**Follow-up activities and milestones**
