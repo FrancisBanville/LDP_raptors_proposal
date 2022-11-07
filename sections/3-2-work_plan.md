@@ -14,10 +14,25 @@ In early 2023, the organizers will collect and tidy all database components. Thi
 
 _Monday, May 8th, 2023_
 
+In the morning, working group participants will present their short talks and field questions from their peers. These presentations will be requested and described in the pre-working-group meeting, in early April. Refreshments and snacks will be provided during this session.  
+After all participants have presented, the organizers will end the morning session with a joint presentation. All organizers will describe the topic and goals of the working group, and a code of conduct will be established for the optimal run of the diverse,
+the equitable, and inclusive working group, including a discussion on how we will use and handle the data coming from underrepresented areas and collaborators.
+The working group will address the question of “How we can predict raptor responses to climate change in the prairies and their responses to ecosystem restoration?”, by brainstorming solution ideas in the frame of their area of expertise. Breakout groups will be formed to propose a hypothesis and test model approaches.
+
 _Tuesday, May 9th, 2023_
+
+Each group will make a quick presentation of their work done the previous day, and then discuss and make a final proposal containing the main hypothesis, model, and preliminary data analysis.
 
 _Wednesday, May 10th, 2023_
 
+The working group will finalize the proposal and an outline that establishes the meta-analysis strategy and the team roles and accountability.
+Afternon break/retreat, hopefully to see the raptors. 
+
 _Thursday, May 11th, 2023_
 
+The working group will discuss the future directions of the living data project and assign leadership roles to accomplish every single left task.
+A detailed plan schedule will be created that establishes a critical route plan to achieve the goal outcomes. including meetings and zoom follow-ups.
+
 _Friday, May 12th, 2023_
+
+**Follow-up activities and milestones**
