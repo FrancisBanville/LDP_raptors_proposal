@@ -14,10 +14,8 @@ In early 2023, the organizers will collect and tidy all database components. Thi
 
 _Monday, May 8th, 2023_
 
-In the morning, working group participants will present their short talks and field questions from their peers. These presentations will be requested and described in the pre-working-group meeting, in early April. Refreshments and snacks will be provided during this session.  
-After all participants have presented, the organizers will end the morning session with a joint presentation. All organizers will describe the topic and goals of the working group, and a code of conduct will be established for the optimal run of the diverse,
-the equitable, and inclusive working group, including a discussion on how we will use and handle the data coming from underrepresented areas and collaborators.
-The working group will address the question of “How we can predict raptor responses to climate change in the prairies and their responses to ecosystem restoration?”, by brainstorming solution ideas in the frame of their area of expertise. Breakout groups will be formed to propose a hypothesis and test model approaches.
+Working group participants will present their short talks and field questions in the morning. The organizers will end the morning session with a joint presentation. All organizers will describe the topic and goals of the working group, and a code of conduct will be established for the optimal run of the diverse, equitable, and inclusive working group, including a discussion on how we will use and handle the data coming from underrepresented areas and collaborators.
+Finally, the working group will address the question of “How we can predict raptor responses to climate change in the prairies and their responses to ecosystem restoration?”, by brainstorming solution ideas in the frame of their area of expertise. Teams will be formed to focus on specific tasks taking advantage of their expertise.
 
 _Tuesday, May 9th, 2023_
 
