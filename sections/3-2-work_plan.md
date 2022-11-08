@@ -35,3 +35,5 @@ _Friday, May 12th, 2023_
 The final progress will be presented to then discuss the rough manuscript structure and  talk about future directions of the living data project and stablish a detailed plan schedule will be created that establishes a critical route plan to achieve the goal outcomes, including meetings and zoom follow-ups. 
 
 **Follow-up activities and milestones**
+
+Follow-up meetings, pending approval/agreement during the last day of working-group meetings, will take place biweekly. In these meetings progress updates will be requested from participants on their respective tasks (e.g., manuscript drafting, coding and data analysis, non-academic communications). Our tentative goal for submission of the working group's key outcome, a journal article describing the model developed and predictions made by the working group, is by the end of August 2023 (roughly three months after the end of the working group meetings).  
