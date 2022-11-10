@@ -2,7 +2,11 @@ The project title, name and complete contact information for the organizer(s), a
 
 ## Project title
 
-To be determined. 
+Working title: _Monitoring and predicting the responses of Hawks to environmental changes in the Canadian prairies as an indicator for ecosystem health_
+
+Project summary: 
+
+Members of the genus _Buteo_, colloquially known as Hawks, are birds of prey. Numerous species are found across North America, and three (the Red-tailed hawk, Swanson's hawk, and the Ferruginous hawk) breed in the Canadian prairies. In this region, due to the expansion of hunting, agriculture, and animal husbandry, the natural environment has undergone immense changes since European colonization. The impacts of such changes on natural systems in the prairies are poorly understood, as different sectors implement distinct management practices, obscuring - and, at worst, negating - collective progress. This necessitates efforts to monitor ecosystem health in the Canadian prairies at a broad scale. One such approach relies on monitoring and predicting the ecology of hawk species. 
 
 ## Organizers 
 
