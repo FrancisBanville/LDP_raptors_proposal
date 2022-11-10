@@ -7,7 +7,7 @@ To be determined.
 ## Organizers 
 
 #### Ashton Sies 
-- Position: MSc candidate
+- Position: MSc student
 - Institution: 
     - Department of biology, University of Regina
 - Labs: 
