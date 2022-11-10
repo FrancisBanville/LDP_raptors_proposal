@@ -52,6 +52,8 @@ Tanya Strydom, PhD Candidate, Université de Montréal
 Research interests: biodiversity, community ecology
 Tanya has expertise in using predictive models for ecological networks and metawebs. This skill would benefit the working group by helping to create the predictive models we want to use to determine how raptors are impacted by the restoration of disturbed land.
 
+Tory Hartley-Cox, MSc Student, University of Regina. Research interests: Raptor ecology. Tory’s experience as a field technician and graduate student working in the Canadian prairies with raptors would benefit this working group through her knowledge of the study area and target species. 
+
 Troy Wellicome, Senior Species At Risk Biologist, Environment and Climate Change Canada and University of Alberta
 Research interests: conservation biology, wildlife ecology, endangered species
 Dr. Wellicome’s expertise would benefit this working group because Dr. Wellicome can contribute his knowledge about raptors that are Species At Risk and what anthropogenic factors are contributing to this.
