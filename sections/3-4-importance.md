@@ -10,30 +10,14 @@ Beyond their important ecological roles, hawks have long served as significant f
 Indeed, as with many animal species that they lived, and now live, alongside, Indigenous people have developed a close and culturally-significant relationship with hawks. Modern-day developments and an increasingly flippant climate will impact these long-standing relationships; one goal of this working group is to predict these impacts, using western scientific methodology and perspective.   
 
 
-*Just point form for now: will be full sentences soon with in-text citations*
 
 *Ecological Importance*
 
-Hawks naturally provide a vital ecological service as an apex avian predator. They regulate small mammal populations, including Deer Mice and Richard’s Ground Squirrels, both species that are considered pests. 
+The Swainson's, Red-tailed, and Ferruginous hawks are apex avian predators that provide vital ecological services by regulating small mammal populations.  Hawks require accessibility to prey and will utilize the landscape in areas where prey is most abundant, indicating areas that support small mammal populations. 
 
-The distribution and abundance maps created by this working group project will greatly impact existing habitat restoration and species-at-risk management projects within Prairie, Canada. 
+one goal of this working group is to create a distribution and abundance map of the three Buteo hawks within the Mixed-grass prairies of Canada. This map will be openly accessible for current and future habitat restoration and species-at-risk management projects, including Park’s Canada’s ongoing management of Black-tailed Prairie Dogs (Cynomys ludovicianus) and Greater-sage Grouse (Centrocercus urophasianus) and the conditioned monitoring of the Ferruginous hawk by Environment Canada. 
 
-Provide a base for measuring the success of past and present restoration projects and how different land use practices and Climate Change parameters like (temperature and rainfall) will affect the effectiveness of different restoration methods, allowing government, private and non-profit organizations to make more informed decisions that allow for more effective land management to occur. 
+The working group aims to create a predictive model of hawks’ responses to climate and ecosystem changes in the prairies and would provide a base for measuring the success of past and present restoration projects and how different land use practices and Climate Change parameters like (temperature and rainfall) will affect the effectiveness of different restoration methods, allowing government, private and non-profit organizations to make more informed decisions that allow for more effective land management to occur.
 
-*Scientific Importance*
-
-Contribute to provincial, federal and academic research. 
-
-Inform endangered species management projects
-
-Provide a Pilate project for similar predictive models 
-
-*Economic Importance*
-
-Provide Federal and provincial government, Non-profit environmental organizations and other environmental groups information that can be used to inform future habitat restoration and species management projects
-
-Land trust organization’s information on land purchasing investments to target high-quality land for protections
-
-Oil, natural gas, and power companies can make more informed decisions on areas infrastructure will have fewer impacts to build. 
 
 
